@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on machine learning, deep learning, flask, and nlp.
-- 🌱 I’m currently learning data science. 
-  
+
+I am a student of data science with a broad skill set. I am actively engaged in machine learning projects at the moment, and I have some familiarity with deep learning and natural language processing (NLP). I've developed projects in the past utilizing machine learning, OpenCV, and Flask. I have knowledge of Python and C++. I'm enthusiastic to contribute to numerous open-source projects and technologies. I'm excited to expand my knowledge and skills by working with others in the tech community and learning new things.
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshita-bhatia-084b611ba/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@harshitaaaa.b27) 
 
