@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a student of data science with a broad skill set. I am actively engaged in machine learning projects at the moment, and I have some familiarity with deep learning and natural language processing (NLP). I've developed projects in the past utilizing machine learning, OpenCV, and Flask. I have knowledge of Python and C++. I'm enthusiastic to contribute to numerous open-source projects and technologies. 
+I am a student of data science with a broad skill set. I am actively engaged in machine learning projects at the moment, and I have some familiarity with deep learning and natural language processing (NLP). I've developed projects in the past utilizing machine learning, OpenCV, and Flask. I have knowledge of Python and C++. I'm enthusiastic to contribute to numerous open-source projects and technologies. I'm excited to expand my knowledge and skills by working with others in the tech community and learning new things.
 
 
 
