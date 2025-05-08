@@ -1,5 +1,3 @@
-### Hello 👋
-
 <!--
 **HarshitaBhatia27/HarshitaBhatia27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a student of data science with a broad skill set. I am actively engaged in machine learning and deep learning projects at the moment, and I have some familiarity with natural language processing (NLP) as well. I've developed projects in the past utilizing machine learning, OpenCV, and Flask. I have knowledge of Python, C++, and Javascript. I'm enthusiastic to contribute to numerous open-source projects and technologies. I'm excited to expand my knowledge and skills by working with others in the tech community and learning new things.
+👋 Hi there! I'm Harshita — a Data Analyst with a strong foundation in Data Science, and hands-on experience in Data Engineering and AI/ML.
+🔍 I’m currently working on real-world projects involving Azure, machine learning, and data pipeline design, while also contributing to a freelance GenAI project.
+🧠 I’ve built projects using Python, OpenCV, Flask, and have a working knowledge of C++ and JavaScript. I’ve also begun exploring Natural Language Processing (NLP) and Cloud-based AI workflows.
+📊 My skill set spans from data wrangling and dashboarding to model training and deployment.
+🌱 I'm passionate about continuous learning and actively seeking collaboration opportunities in open-source AI, cloud-native data solutions, and end-to-end ML applications.
+🤝 Let’s connect, build, and grow together in the tech community!
+
 
 
 
