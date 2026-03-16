@@ -13,12 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi there! I'm Harshita — a Data Analyst with a strong foundation in Data Science, and hands-on experience in Data Engineering and AI/ML.
-🔍 I’m currently working on real-world projects involving Azure, machine learning, and data pipeline design, while also contributing to a freelance GenAI project.
-🧠 I’ve built projects using Python, OpenCV, Flask, and have a working knowledge of C++ and JavaScript. I’ve also begun exploring Natural Language Processing (NLP) and Cloud-based AI workflows.
-📊 My skill set spans from data wrangling and dashboarding to model training and deployment.
-🌱 I'm passionate about continuous learning and actively seeking collaboration opportunities in open-source AI, cloud-native data solutions, and end-to-end ML applications.
-🤝 Let’s connect, build, and grow together in the tech community!
+👋 Hi there! I'm Harshita — an AI/ML engineer with a strong foundation in Data Science, and hands-on experience in Data Engineering and AI/ML.
 
 
 
